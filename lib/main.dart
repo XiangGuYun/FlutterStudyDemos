@@ -16,6 +16,9 @@ import '2-Text文本组件.dart';
 import '20-普通路由组件.dart';
 import '21-命名路由组件.dart';
 import '21-命名路由组件_传值.dart';
+import '21-命名路由组件_路由替换.dart';
+import '21-命名路由组件_返回根路由.dart';
+import '22-AppBar自定义导航栏.dart';
 import '3-Image图片组件.dart';
 import '4-ListView列表组件_1.dart';
 import '4-ListView列表组件_2横向.dart';
@@ -25,6 +28,6 @@ import '7-Column纵向组件.dart';
 import '8-Row横向组件.dart';
 import '9-Expanded权重组件.dart';
 
-void main() => runApp(NamedRouteApp1());
+void main() => runApp(AppBarApp());
 
 
