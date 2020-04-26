@@ -1,4 +1,4 @@
-# flutterapp2
+# FlutterStudyDemos
 
 A new Flutter application.
 
